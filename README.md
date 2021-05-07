@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on Automated Machine Learning
 - 🌱 I’m currently learning   
       - Programming Languages  
-              * Python (Abstract class)  
-              * Kotlin (Head First -> )  
-              * Scala (Kickoff)  
-              * PySpark (Basic)  
+              -  Python (Abstract class)  
+              -  Kotlin (Head First -> )  
+              -  Scala (Kickoff)  
+              -  PySpark (Basic)  
       - Machine/Deep Learning  
               - Automated ML pipeline (Kedro, PipelineX)  
               - MLFlow  
