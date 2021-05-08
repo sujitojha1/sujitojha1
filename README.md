@@ -20,6 +20,16 @@
     - Github  
     -    
 
+- Targets  
+  - May (DP200, Github Ops, PySpark basics, Kedro, PipelineX, Kotlin - headfirst)
+  - Jun (DP201, Azure pipelines, PySpark - CI/CD, MLFlow, Kotlin - datascience basics )
+  - Jul (DP204, azure devops, PySpark - Delta lake, DVC, Kotlin - Optimization basics )
+  - Aug (DP100, powershell )
+  - Sep (DP203, )
+  - Oct (AZ400 )
+  - Nov (AZ303 )
+  - Dec (AZ304 )
+
 <!--
 **sujitojha1/sujitojha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
