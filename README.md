@@ -13,6 +13,7 @@
     - DVC  
     - PySpark ML  
   - Cloud Computing (Azure)  
+    - Databricks
     - Data Solutions Learning Path  
     - DevOps Learning Path  
     - Solution Architect Learning Path  
@@ -21,11 +22,10 @@
     -    
 
 - Targets  
-  - May (DP200, Github Ops, PySpark basics, Kedro, PipelineX, Kotlin - headfirst)
-  - Jun (DP201, Azure pipelines, PySpark - CI/CD, MLFlow, Kotlin - datascience basics )
-  - Jul (DP204, azure devops, PySpark - Delta lake, DVC, Kotlin - Optimization basics )
-  - Aug (DP100, powershell )
-  - Sep (DP203, )
+  - Jun (Databricks - Certification, MLFlow, AutoML, Delta Live tables, DP203, MLFlow, Kotlin - basics, Scala - Basics, Python Advance  )
+  - Jul (Databricks - Certification, MLFlow, AutoML, DP203, Kedro, DVC)
+  - Aug (Databricks - Certification Data Engineering, Az104, Kotlin datascience)
+  - Sep (Databricks - Certification Data Science, DP203, azure devops, Kotlin - Optimization basics)
   - Oct (AZ400 )
   - Nov (AZ303 )
   - Dec (AZ304 )
