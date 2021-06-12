@@ -1,23 +1,27 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Automated Machine Learning
-- 🌱 I’m currently learning  
-  - Programming Languages   
-    - Python (Abstract class)  
-    - Kotlin (Head First -> )  
-    - Scala (Kickoff)  
-    - PySpark (Basic)  
-    - Go (Kickoff)
-  - Machine/Deep Learning  
-    - Automated ML pipeline (Kedro, PipelineX)  
-    - MLFlow  
-    - DVC  
-    - PySpark ML  
+- 🌱 Identified areas of learning  
+
   - Cloud Computing (Azure)  
     - Databricks (AutoML, MLflow, Feature Store)
     - Data Solutions Learning Path  
     - DevOps Learning Path  
     - Solution Architect Learning Path  
+  - Machine/Deep Learning  
+    - Automated ML pipeline (Kedro, PipelineX)  
+    - MLFlow  
+    - DVC  
+    - PySpark ML  
+  - Programming Languages (Data Engineering OLAP, Data Science) 
+    - Python (Abstract class)  
+    - Kotlin (Head First -> )  
+    - Scala (Kickoff)  
+    - PySpark (Basic)  
+    - Go (Kickoff)
+  - Database (OLTP) - Small application 
+    - PostgresSQL 
+    - MongoDB
   - Dev Tools  
     - Github  
     -    
