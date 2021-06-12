@@ -7,13 +7,14 @@
     - Kotlin (Head First -> )  
     - Scala (Kickoff)  
     - PySpark (Basic)  
+    - Go (Kickoff)
   - Machine/Deep Learning  
     - Automated ML pipeline (Kedro, PipelineX)  
     - MLFlow  
     - DVC  
     - PySpark ML  
   - Cloud Computing (Azure)  
-    - Databricks
+    - Databricks (AutoML, MLflow, Feature Store)
     - Data Solutions Learning Path  
     - DevOps Learning Path  
     - Solution Architect Learning Path  
