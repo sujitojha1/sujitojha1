@@ -4,7 +4,7 @@
 - 🌱 Identified areas of learning  
 
   - Cloud Computing (Azure)  
-    - Databricks (AutoML, MLflow, Feature Store)
+    - Databricks (AutoML, MLflow, Feature Store, Delta live table)
     - Data Solutions Learning Path  
     - DevOps Learning Path  
     - Solution Architect Learning Path  
@@ -13,6 +13,7 @@
     - MLFlow  
     - DVC  
     - PySpark ML  
+    - Shap
   - Programming Languages (Data Engineering OLAP, Data Science) 
     - Python (Abstract class)  
     - Kotlin (Head First -> )  
