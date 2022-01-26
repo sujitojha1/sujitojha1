@@ -1,40 +1,27 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Automated Machine Learning
+- 🔭 I’m currently working on Automated Machine Learning and aspiring to become azure solution architect.
 - 🌱 Identified areas of learning  
 
-  - Cloud Computing (Azure)  
-    - Databricks (AutoML, MLflow, Feature Store, Delta live table)
-    - Data Solutions Learning Path  
-    - DevOps Learning Path  
-    - Solution Architect Learning Path  
   - Machine/Deep Learning  
-    - Automated ML pipeline (Kedro, PipelineX)  
-    - MLFlow  
-    - DVC  
-    - PySpark ML  
-    - Shap
-  - Programming Languages (Data Engineering OLAP, Data Science) 
-    - Python (Abstract class)  
-    - Kotlin (Head First -> )  
-    - Scala (Kickoff)  
-    - PySpark (Basic)  
-    - Go (Kickoff)
-  - Database (OLTP) - Small application 
+    - NLP, Transformer (BART, BERT, GPT), Language translation, Question-Answering, ChatBot
+    - Graph ML/DL & Network Analysis
+    - Timeseries & Forecasting
+  - Cloud Computing (Azure)  
+    - Solution Architect Learning Path  
+    - Databricks Data Engineering Certification
+    - Databricks Data Science Certification
+  - Programming Languages  
+    - Python (Abstract class, Meta Programming)
+    - TypeScript
+    - Rust
+  - Database & APIs 
     - PostgresSQL 
     - MongoDB
+    - GraphQL
   - Dev Tools  
     - Github  
-    -    
-
-- Targets  
-  - Jun (Databricks - Certification, MLFlow, AutoML, Delta Live tables, DP203, MLFlow, Kotlin - basics, Scala - Basics, Python Advance  )
-  - Jul (Databricks - Certification, MLFlow, AutoML, DP203, Kedro, DVC)
-  - Aug (Databricks - Certification Data Engineering, Az104, Kotlin datascience)
-  - Sep (Databricks - Certification Data Science, DP203, azure devops, Kotlin - Optimization basics)
-  - Oct (AZ400 )
-  - Nov (AZ303 )
-  - Dec (AZ304 )
+    - VsCode
 
 <!--
 **sujitojha1/sujitojha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
