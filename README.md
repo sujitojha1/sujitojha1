@@ -1,27 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Automated Machine Learning and aspiring to become azure solution architect.
+- 🔭 I’m currently working on Deep Learning and aspiring to become aws solution architect.
 - 🌱 Identified areas of learning  
 
   - Machine/Deep Learning  
-    - NLP, Transformer (BART, BERT, GPT), Language translation, Question-Answering, ChatBot
     - Graph ML/DL & Network Analysis
-    - Timeseries & Forecasting
-  - Cloud Computing (Azure)  
-    - Solution Architect Learning Path  
-    - Databricks Data Engineering Certification
-    - Databricks Data Science Certification
-  - Programming Languages  
-    - Python (Abstract class, Meta Programming)
-    - TypeScript
-    - Rust
-  - Database & APIs 
-    - PostgresSQL 
-    - MongoDB
-    - GraphQL
-  - Dev Tools  
-    - Github  
-    - VsCode
+
 
 <!--
 **sujitojha1/sujitojha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
