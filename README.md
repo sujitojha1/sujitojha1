@@ -1,23 +1,79 @@
-### Hi there 👋
+# 👋 Hi, I'm Sujit Kumar Ojha
 
-- 🔭 I’m currently working on Deep Learning and aspiring to become aws solution architect.
-- 🌱 Identified areas of learning  
+**Manager – Data Science & Full Stack | Ex-GE Aviation | IIT Delhi Alum**
 
-  - Machine/Deep Learning  
-    - Graph ML/DL & Network Analysis
+Bengaluru, India  
+[Email](mailto:sujit.ojha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sujitojha/)
 
+---
 
-<!--
-**sujitojha1/sujitojha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Expert in **Machine Learning, Data Engineering**, and **Deep Learning** with 15+ years’ experience leading and executing AI-powered projects in aerospace, automotive, and manufacturing.  
+Proven track record in predictive maintenance, full-stack engineering, and cloud solution delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: **Manager, Data Science & Full Stack** at Pratt & Whitney  
+Former: Technical roles at **Mercedes-Benz R&D**, **Bosch**, **GE Aviation**
+
+**Databricks Certified Data Engineer** | Passion for scalable AI systems and team mentoring.
+
+---
+
+## 🔭 Current Projects & Interests
+
+- Leading Data Science initiatives for predictive maintenance and analytics in aviation
+- Cloud MLOps implementation (Azure, Databricks, AutoML, MLflow)
+- Building transformer-based NLP and CV models for real-world impact
+- Exploring innovations in IIoT, edge AI, and digital twins
+
+---
+
+## 🏆 Certifications & Recognition
+
+- Microsoft Certified: Power BI Data Analyst Associate (2023–2025)
+- NVIDIA DLI: Transformer-based NLP Apps (2021)
+- Databricks Certified Machine Learning Associate & Data Engineer
+- Multiple internal awards at GE Aviation (ERD Award, Analytics Engineer Certified)
+
+---
+
+## 🎓 Education
+
+- **M.Tech, Mechanical Engineering (9.55/10), IIT Delhi**  
+  — Research: Finite Element & Dynamics, Flexible Robotic Arms
+- **B.Tech, Mechanical Engineering (8.41/10), CET Bhubaneswar**
+
+---
+
+## 📚 Publications
+
+- Rotordynamic Analysis of Asymmetric Turbofan Rotor, 53rd AIAA/ASME/ASCE/AHS/ASC Conference
+- Dynamics of Flexible Manipulators, ECSC Conference, St. Petersburg
+
+---
+
+## ✍️ Thought Leadership
+
+- [In Days of Information Overload, Are We Building Our Mental Models?](https://www.linkedin.com/pulse/days-information-overload-we-building-our-mental-models-sujit-ojha-nalec)
+
+---
+
+## 🛠️ Technical Skills
+
+- Python | Pytorch | Azure Data Factory | Databricks | Power BI | MLflow | Cloud ML (Azure, AWS)
+- Deep Learning | Computer Vision | NLP | MLOps, IIoT
+- Data Engineering | Full-stack Dev | Predictive Maintenance
+- **Languages:** English, Hindi
+
+---
+
+## 👥 Community & Open Source
+
+Active member of @The-School-of-AI, @EVA4-RS-Group, and other tech groups.  
+Mentor, collaborator, and continuous learner.
+
+---
+
+## 📈 GitHub Stats
+
+![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujitojha1&show_icons=true&theme=radical)
