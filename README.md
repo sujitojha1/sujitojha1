@@ -55,6 +55,7 @@ Former: Technical roles at **Mercedes-Benz R&D**, **Bosch**, **GE Aviation**
 ## ✍️ Thought Leadership
 
 - [In Days of Information Overload, Are We Building Our Mental Models?](https://www.linkedin.com/pulse/days-information-overload-we-building-our-mental-models-sujit-ojha-nalec)
+- [moment of reflection](https://www.linkedin.com/pulse/moment-reflection-who-we-what-defines-us-sujit-ojha-zrxdc)
 
 ---
 
