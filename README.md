@@ -12,7 +12,7 @@ Bengaluru, India
 Expert in **Machine Learning, Data Engineering**, and **Deep Learning** with 15+ years’ experience leading and executing AI-powered projects in aerospace, automotive, and manufacturing.  
 Proven track record in predictive maintenance, full-stack engineering, and cloud solution delivery.
 
-Currently: **Manager, Data Science & Full Stack** at Pratt & Whitney  
+Currently: **Senior Manager, Data Science & Full Stack** at Pratt & Whitney  
 Former: Technical roles at **Mercedes-Benz R&D**, **Bosch**, **GE Aviation**
 
 **Databricks Certified Data Engineer** | Passion for scalable AI systems and team mentoring.
