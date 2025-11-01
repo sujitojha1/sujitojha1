@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujit Kumar Ojha
 
-**Manager – Data Science & Full Stack | Ex-GE Aviation | IIT Delhi Alum**
+**Senior Manager – Data Science & Full Stack | Ex-GE Aviation | IIT Delhi Alum**
 
 Bengaluru, India  
 [Email](mailto:sujit.ojha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sujitojha/)
