@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Sujit Kumar Ojha
+*I build AI systems that keep aircraft flying safely — 15+ years at the intersection of ML and aerospace engineering.*
 
 **Senior Manager – Data Science & Full Stack | Ex-GE Aviation | IIT Delhi Alum**
 
