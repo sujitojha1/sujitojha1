@@ -4,6 +4,7 @@
 
 Bengaluru, India  
 [Email](mailto:sujit.ojha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sujitojha/)
+![Profile Views](https://komarev.com/ghpvc/?username=sujitojha1&color=blue&style=flat-square&label=Profile+Views)
 
 ---
 
