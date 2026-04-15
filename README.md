@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sujit Kumar Ojha
-*I build AI systems that keep aircraft flying safely — 15+ years at the intersection of ML and aerospace engineering.*
+*I build AI systems that keep aircraft flying safely — 17+ years at the intersection of ML and aerospace engineering.*
 
 **Senior Manager – Data Science & Full Stack | Ex-GE Aviation | IIT Delhi Alum**
 
@@ -11,7 +11,7 @@ Bengaluru, India
 
 ## 🚀 About Me
 
-Expert in **Machine Learning, Data Engineering**, and **Deep Learning** with 15+ years’ experience leading and executing AI-powered projects in aerospace, automotive, and manufacturing.  
+Expert in **Machine Learning, Data Engineering**, and **Deep Learning** with 17+ years’ experience leading and executing AI-powered projects in aerospace, automotive, and manufacturing.  
 Proven track record in predictive maintenance, full-stack engineering, and cloud solution delivery.
 
 Currently: **Senior Manager, Data Science & Full Stack** at Pratt & Whitney  
