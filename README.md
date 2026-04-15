@@ -77,3 +77,5 @@ Mentor, collaborator, and continuous learner.
 ## 📈 GitHub Stats
 
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujitojha1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujitojha1&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sujitojha1&theme=radical)](https://git.io/streak-stats)
