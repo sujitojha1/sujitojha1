@@ -2,7 +2,7 @@
 *I build AI systems that keep aircraft flying safely — 17+ years at the intersection of ML and aerospace engineering.*
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-**Senior Manager – Data Science & Full Stack | Ex-GE Aviation | IIT Delhi Alum**
+**Senior Manager – Data Science & Full Stack | Ex-GE Aviation | IIT Delhi Alumni**
 
 Bengaluru, India  
 [Email](mailto:sujit.ojha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sujitojha/)
