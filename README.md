@@ -80,6 +80,4 @@ Mentor, collaborator, and continuous learner.
 
 ## 📈 GitHub Stats
 
-![Sujit's GitHub_stats](https://github-readme-stats.vercel.app/api?username=sujitojha1&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
-![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujitojha1&layout=compact&theme=radical&cache_seconds=86400)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujitojha1&theme=radical)](https://git.io/streak-stats)
