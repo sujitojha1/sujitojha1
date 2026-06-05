@@ -80,4 +80,4 @@ Mentor, collaborator, and continuous learner.
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sujitojha1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujitojha1&theme=dark)](https://git.io/streak-stats)
